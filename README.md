@@ -12,4 +12,4 @@ https://github.com/user-attachments/assets/f8be08f0-7b28-4ed2-af4c-9e6c5bf2caf2
 
 
 
-[sample_3.wav](https://github.com/user-attachments/files/23700892/sample_3.wav)
+https://github.com/user-attachments/files/23700892/sample_3.wav
