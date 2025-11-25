@@ -55,3 +55,10 @@ https://github.com/user-attachments/assets/f8be08f0-7b28-4ed2-af4c-9e6c5bf2caf2
 
 ------------------------
 [Sample_8](https://drive.google.com/file/d/1ggocIQbsok16X5TZKcW6nbSVNyghMuF8/view?usp=sharing)
+
+
+[Reinforcement Learning appraoch for lifting object](https://github.com/SauravUpadhyaya/robotic-arm-lifting-object-in-noisy-environment)
+
+https://github.com/user-attachments/assets/d2c279b8-72aa-4932-bdb3-209ad170df76
+
+
