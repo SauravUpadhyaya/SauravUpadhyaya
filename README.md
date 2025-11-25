@@ -29,7 +29,7 @@ https://github.com/user-attachments/assets/f8be08f0-7b28-4ed2-af4c-9e6c5bf2caf2
 
 ------------------------------------------------
 
-## Piano Music Samples (transformer-based piano composer) [https://github.com/SauravUpadhyaya/A-Transformer-based-Piano-Music-Composer-Model]
+## [Piano Music Samples](https://github.com/SauravUpadhyaya/A-Transformer-based-Piano-Music-Composer-Model)
 
 [Sample_1](https://drive.google.com/file/d/1Px5_s_MopkVXYP9XOeJCQIjNSQhSHjL3/view?usp=sharing)
 
