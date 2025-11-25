@@ -25,7 +25,7 @@ https://github.com/user-attachments/assets/f8be08f0-7b28-4ed2-af4c-9e6c5bf2caf2
 
 ------------------------------------------------
 
-[Medium]h(ttps://medium.com/@learn_with_me_100_times)
+[Medium](https://medium.com/@learn_with_me_100_times)
 
 ------------------------------------------------
 
