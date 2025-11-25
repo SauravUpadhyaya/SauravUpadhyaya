@@ -1,8 +1,4 @@
 
-
-![IMG_1584](https://github.com/user-attachments/assets/7ad7d704-cbd1-4f8d-8a75-8e0fe981395d)
-
-
 https://github.com/user-attachments/assets/4a03bbcb-e130-4924-8281-556923f70a13
 
 
