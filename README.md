@@ -55,11 +55,15 @@ https://github.com/user-attachments/assets/f8be08f0-7b28-4ed2-af4c-9e6c5bf2caf2
 [Sample_8](https://drive.google.com/file/d/1ggocIQbsok16X5TZKcW6nbSVNyghMuF8/view?usp=sharing)
 
 
-## [Reinforcement Learning appraoch for lifting object](https://github.com/user-attachments/assets/2a5a5084-23b2-4796-ab18-c1aeeb1dc3e9)
+## [Reinforcement Learning appraoch for lifting object]
 
-------------------------
+a) Without Noise
 
-## [Reinforcement Learning appraoch for lifting object](https://github.com/user-attachments/assets/c341ad51-dd70-4299-bc46-49e9abf8cadd)
+https://github.com/user-attachments/assets/2a5a5084-23b2-4796-ab18-c1aeeb1dc3e9
+
+b) With Noise
+
+https://github.com/user-attachments/assets/c341ad51-dd70-4299-bc46-49e9abf8cadd
 
 ------------------------
 
