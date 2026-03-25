@@ -1,7 +1,10 @@
 
 
 
-https://github.com/SauravUpadhyaya/number_guess
+https://sauravupadhyaya.github.io/number_guess/
+
+<img width="666" height="401" alt="image" src="https://github.com/user-attachments/assets/0c1cb48d-a5d8-45f7-87d1-4d084835af8f" />
+
 
 
 https://github.com/user-attachments/assets/4a03bbcb-e130-4924-8281-556923f70a13
