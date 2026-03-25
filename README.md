@@ -1,5 +1,5 @@
 
-[Guess the number]{https://sauravupadhyaya.github.io/number_guess/}
+[Guess the number](https://sauravupadhyaya.github.io/number_guess/)
 
 
 
