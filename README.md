@@ -1,8 +1,9 @@
 
-[Guess the number](https://sauravupadhyaya.github.io/number_guess/)
 
-<img width="1142" height="803" alt="image" src="https://github.com/user-attachments/assets/8af725ea-221d-45ba-ba55-8869fb7228ad" />
 
+<a href="[https://your-link-destination.com](https://sauravupadhyaya.github.io/number_guess/)">
+  <img src="https://github.com" width="1142" height="803" alt="Guess the number">
+</a>
 
 https://github.com/user-attachments/assets/4a03bbcb-e130-4924-8281-556923f70a13
 
