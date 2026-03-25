@@ -1,7 +1,7 @@
 
 
 
-<a href="[https://your-link-destination.com](https://sauravupadhyaya.github.io/number_guess/)">
+<a href="(https://sauravupadhyaya.github.io/number_guess/)">
   <img src="https://github.com" width="1142" height="803" alt="Guess the number">
 </a>
 
